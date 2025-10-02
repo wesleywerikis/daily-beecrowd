@@ -21,6 +21,10 @@ Objetivo: manter consistência na prática de algoritmos e lógica de programaç
 ## Progresso
 - [x] 1000 - Hello World!
 - [x] 1001 - Extremamente Básico
+- [x] 1002 - Área do Círculo
+- [x] 1003 - Soma Simples
+- [x] 1004 - Produto Simples
+- [x] 1005 - Média 1
 - ...
 
 ## Observações
